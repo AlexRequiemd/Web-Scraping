@@ -39,10 +39,14 @@ Este projeto realiza a raspagem de dados de produtos do **Mercado Livre** e de *
 
 1. Execute o script para coletar os dados:
    ```bash
-   python scraper.py
+   python scrap_mercadolivre.py
+   ```
+   OU
+    ```bash
+   python scrap_olx.py
    ```
 
-2. Os arquivos CSV serão gerados automaticamente na pasta `output/`.
+3. Os arquivos CSV serão gerados automaticamente na pasta `output/`.
 
 ## ⚙ Configuração
 
