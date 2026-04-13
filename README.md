@@ -9,7 +9,7 @@ Este projeto realiza a raspagem de dados de produtos do **Mercado Livre** e de *
 - **Pandas** - Usado para manipulação e exportação dos dados em formato CSV.
 
 ## 🚀 Funcionalidades
-
+### *ATENÇÃO:* Sites como Mercado Livre, OLX, Amazon e etc. estão em constante atualização em sua estrutura html, mudando o caminho das tags e demais informações, por isso muitas vezes é necessário atualizar o código para pegar o caminho atual da informação que você deseja. Muito provávelmente se você quiser utilizar este projeto, você terá que realizar estas atualizações.
 ### Mercado Livre
 - Coleta as seguintes informações:
   - **Nome do Produto**
